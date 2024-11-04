@@ -2,13 +2,13 @@
 uniquecode = 87259
 
 #problem 1
-p1Network = '221.0.48.67'
+p1Network = '221.0.48.64'
 p1Broadcast = '221.0.48.79'
 p1First = '221.0.48.65'
 p1Last =  '221.0.48.78'
 
 #problem 2
-p2Network = '132.241.10.109'
+p2Network = '132.241.10.0'
 p2Broadcast = '132.241.10.127'
 p2First = '132.241.10.1'
 p2Last = '132.241.10.126'
