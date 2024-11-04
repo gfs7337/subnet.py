@@ -1,17 +1,17 @@
 #enter your unique code
-uniquecode = 
+uniquecode = 87259
 
 #problem 1
-p1Network = ''
-p1Broadcast = ''
-p1First = ''
-p1Last =  ''
+p1Network = '221.0.48.67'
+p1Broadcast = '221.0.48.79'
+p1First = '221.0.48.65'
+p1Last =  '221.0.48.78'
 
 #problem 2
-p2Network = ''
-p2Broadcast = ''
-p2First = ''
-p2Last = ''
+p2Network = '132.241.10.109'
+p2Broadcast = '132.241.10.127'
+p2First = '132.241.10.1'
+p2Last = '132.241.10.126'
 
 #problem 3
 p3Network = ''
