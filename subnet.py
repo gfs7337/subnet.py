@@ -34,7 +34,7 @@ p5Last = '121.197.151.254'
 #problem 6
 p6Network = '32.182.113.16'
 p6Broadcast = '32.182.113.31'
-p6First = '32.182.113.1'
+p6First = '32.182.113.17'
 p6Last =  '32.182.113.30'
 
 #problem 7
