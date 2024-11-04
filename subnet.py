@@ -14,52 +14,52 @@ p2First = '132.241.10.1'
 p2Last = '132.241.10.126'
 
 #problem 3
-p3Network = ''
-p3Broadcast = ''
-p3First = ''
-p3Last = ''
+p3Network = '43.227.227.144'
+p3Broadcast = '43.227.227.151'
+p3First = '43.227.227.145'
+p3Last = '43.227.227.150'
 
 #problem 4
-p4Network = ''
-p4Broadcast = ''
-p4First = ''
-p4Last = ''
+p4Network = '210.212.189.192'
+p4Broadcast = '210.212.189.255'
+p4First = '210.212.189.193'
+p4Last = '210.212.189.254'
 
 #problem 5
-p5Network = ''
-p5Broadcast = ''
-p5First = ''
-p5Last = ''
+p5Network = '121.197.151.0'
+p5Broadcast = '121.197.151.255'
+p5First = '121.197.151.1'
+p5Last = '121.197.151.254'
 
 #problem 6
-p6Network = ''
-p6Broadcast = ''
-p6First = ''
-p6Last =  ''
+p6Network = '32.182.113.16'
+p6Broadcast = '32.182.113.31'
+p6First = '32.182.113.17'
+p6Last =  '32.182.113.30'
 
 #problem 7
-p7Network = ''
-p7Broadcast = ''
-p7First = ''
-p7Last = ''
+p7Network = '199.167.74.0'
+p7Broadcast = '199.167.74.127'
+p7First = '199.167.747.1'
+p7Last = '199.167.74.126'
 
 #problem 8
-p8Network = ''
-p8Broadcast = ''
-p8First = ''
-p8Last = ''
+p8Network = '110.152.36.96'
+p8Broadcast = '110.152.36.111'
+p8First = '110.152.36.97'
+p8Last = '110.152.36.110'
 
 #problem 9
-p9Network = ''
-p9Broadcast = ''
-p9First = ''
-p9Last = ''
+p9Network = '21.137.254.128'
+p9Broadcast = '21.137.254.191'
+p9First = '21.137.254.129'
+p9Last = '21.137.254.190'
 
 #problem 10
-p10Network = ''
-p10Broadcast = ''
-p10First = ''
-p10Last = ''
+p10Network = '188.123.216.192'
+p10Broadcast = '188.123.216.199'
+p10First = '188.123.216.193'
+p10Last = '188.123.216.198'
 
 
 """
